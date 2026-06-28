@@ -12,24 +12,21 @@
 <br>
 
 ## 📝 Overview
-유니티 엔진 학습 및 개인 프로젝트 실습 기록을 모아두는 공간입니다. 
-상단의 **Notion 배너**를 클릭하면 상세한 공부 기록과 트러블슈팅 내역을 확인할 수 있습니다.
+유니티 엔진 학습 및 프로젝트 실습 기록을 모아두는 공간입니다. 
+상단의 **Notion 배너**를 클릭하면 상세한 공부 기록을 확인할 수 있습니다.
 
 ---
 
 ## 📂 Project Index
 
-| No. | Folder | Description | Status |
-| :---: | :--- | :--- | :---: |
-| 01 | `📂 01_Movement_Test` | 캐릭터 기본 이동 및 물리 엔진 테스트 | 🟢 |
-| 02 | `📂 추가 예정` | 진행할 프로젝트 내용 | ⚪ |
-| 03 | `📂 추가 예정` | 진행할 프로젝트 내용 | ⚪ |
-
-*(상태: 🟢 완료 / 🟡 진행 중 / ⚪ 대기)*
+| Folder | Description |
+| :--- | :--- |
+| `📂 UEP_Essentials Pathway` | 유니티 에센셜 학습 기록 및 실습 |
+| `📂 Unity 3DE-(01)` | 3D 환경 구성 및 씬(Bedroom 등) 실습 |
 
 ---
 
 ## ⚙️ Environment
-- **Game Engine:** Unity (2022.3 LTS+)
+- **Game Engine:** Unity
 - **Language:** C#
 - **Version Control:** Git / GitHub Desktop
