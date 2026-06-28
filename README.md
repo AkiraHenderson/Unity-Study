@@ -21,8 +21,8 @@
 
 | Folder | Description |
 | :--- | :--- |
-| `📂 UEP_Essentials Pathway` | 유니티 에센셜 학습 기록 및 실습 |
-| `📂 Unity 3DE-(01)` | 3D 환경 구성 및 씬(Bedroom 등) 실습 |
+| `📂 01_UEP_Essentials Pathway` | 유니티 에센셜 학습 기록 및 실습 |
+| `📂 02_Unity 3DE-(01)` | 3D 환경 구성 및 씬(Bedroom 등) 실습 |
 
 ---
 
