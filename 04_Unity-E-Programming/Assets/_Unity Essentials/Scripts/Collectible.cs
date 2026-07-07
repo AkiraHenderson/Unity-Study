@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class Collectible : MonoBehaviour
 {
+
+    public float rotationSpeed;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -11,6 +14,6 @@ public class Collectible : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 1, 0);
+        transform.Rotate(0, rotationSpeed, 0);
     }
 }
